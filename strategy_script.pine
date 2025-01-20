@@ -91,3 +91,5 @@ plot(sharpe_ratio, color=color.blue, title="Sharpe Ratio")
 plot(sortino_ratio, color=color.purple, title="Sortino Ratio")
 plot(percent_profitable, color=color.orange, title="Percent Profitable")
 
+
+1
