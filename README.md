@@ -21,3 +21,4 @@
 
 ## **Visuals**
 - Plots MA, Bollinger Bands, equity curve, and performance metrics on the chart.
+![Quant Trading](Quant_Trading.png)
