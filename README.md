@@ -24,4 +24,5 @@
 
 
 ![Quant Trading](Quant_Trading.png) 
+![Quant Trading](Quant_Trading1.png) 
 
